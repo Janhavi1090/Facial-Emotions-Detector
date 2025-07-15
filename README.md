@@ -1,1 +1,1 @@
-# Facial-Emotions-Detector
+# Python Mini Projects
